@@ -1,0 +1,99 @@
+{
+    "python.formatting.blackArgs": [
+        "--config",
+        "~\\code\\ADI\\pyproject.toml"
+    ],
+    "gitmoji.addCustomEmoji": [
+        {
+            "emoji": "🎨",
+            "code": ":art:",
+            "description": "Improve structure / format of the code."
+        },
+        {
+            "emoji": "🆕",
+            "code": ":new:",
+            "description": "Added new stuff / created new device."
+        },
+        {
+            "emoji": "🐛",
+            "code": ":bug:",
+            "description": "Fix a bug."
+        },
+        {
+            "emoji": "♻️",
+            "code": ":recycle:",
+            "description": "Refactor code."
+        },
+        {
+            "emoji": "🧪",
+            "code": ":test_tube:",
+            "description": "Add or update tests."
+        },
+        {
+            "emoji": "📝",
+            "code": ":memo:",
+            "description": "Add or update documentation."
+        },
+        {
+            "emoji": "🚧",
+            "code": ":construction:",
+            "description": "Work in progress / WIP."
+        },
+        {
+            "emoji": "✔️",
+            "code": ":check_mark:",
+            "description": "Completed a task / did a thing."
+        },
+        {
+            "emoji": "🗃️",
+            "code": ":card_file_box:",
+            "description": "Add / update migration"
+        },
+        {
+            "emoji": "⚡️",
+            "code": ":zap:",
+            "description": "Improve performance."
+        },
+        {
+            "emoji": "🗑️",
+            "code": ":wastebasket:",
+            "description": "Deleted stuff."
+        },
+        {
+            "emoji": "🔧",
+            "code": ":wrench:",
+            "description": "Add/update a pyproject.toml / dependency."
+        },
+        {
+            "emoji": "🔨",
+            "code": ":hammer:",
+            "description": "Add or update development scripts / PowerShell scripts."
+        },
+        {
+            "emoji": "🩹",
+            "code": ":adhesive_bandage:",
+            "description": "Fix a small mistake."
+        },
+        {
+            "emoji": "🐳",
+            "code": ":whale:",
+            "description": "Docker and Dockerfile-related updates."
+        },
+        {
+            "emoji": "🚚",
+            "code": ":truck:",
+            "description": "Move / rename files."
+        },
+        {
+            "emoji": "🤦",
+            "code": ":facepalm:",
+            "description": "Fix something stupid / dumb."
+        },
+        {
+            "emoji": "🙈",
+            "code": ":see_no_evil:",
+            "description": "Don't look at me."
+        },
+    ],
+    "gitmoji.onlyUseCustomEmoji": true,
+}
